@@ -1,0 +1,70 @@
+{
+	"windowPositionSettings": [
+		{
+			"windowName": "SessionStats",
+			"position":
+			{
+				"x": 1,
+				"y": 1
+			}
+		},
+		{
+			"windowName": "FPS",
+			"position":
+			{
+				"x": 217,
+				"y": 6
+			}
+		},
+		{
+			"windowName": "ChallengeTimer",
+			"position":
+			{
+				"x": 227,
+				"y": 80
+			}
+		},
+		{
+			"windowName": "ScenarioTitle",
+			"position":
+			{
+				"x": 227,
+				"y": 33.5
+			}
+		},
+		{
+			"windowName": "CountdownTimer",
+			"position":
+			{
+				"x": 691.5,
+				"y": 126
+			}
+		},
+		{
+			"windowName": "ScoreProgressBar",
+			"position":
+			{
+				"x": 227,
+				"y": 7
+			}
+		},
+		{
+			"windowName": "SensitivityRandomizer",
+			"position":
+			{
+				"x": 308,
+				"y": 32
+			}
+		}
+	],
+	"windowScaleSettings": [
+		{
+			"windowName": "CountdownTimer",
+			"scale": 1.2974402904510498
+		},
+		{
+			"windowName": "ScenarioTitle",
+			"scale": 1.0645251274108887
+		}
+	]
+}
